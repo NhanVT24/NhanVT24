@@ -1,7 +1,7 @@
 <!-- GitHub Profile README | NhanVT24 -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=NHAN%20VO&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Intern%20%7C%20Full%20Stack%20Developer&descAlignY=59&descSize=17" width="100%" alt="Nhan Vo — Full Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=NHAN%20VO&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%7C%20Full%20Stack%20Developer&descAlignY=59&descSize=17" width="100%" alt="Nhan Vo — Full Stack Developer" />
 
 <a href="https://github.com/NhanVT24"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1100&color=38BDF8&center=true&vCenter=true&repeat=true&width=720&height=52&lines=Building+thoughtful+web+experiences;Designing+reliable+cloud-native+backends;Learning+AWS+Serverless+%26+System+Design;Turning+ideas+into+working+products" alt="Animated introduction: web development, AWS serverless and system design" /></a>
 
